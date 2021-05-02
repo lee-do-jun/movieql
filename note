@@ -1,0 +1,10 @@
+
+
+
+babel rc?
+yarn add babel-cli babel-preset-env babel-preset-stage-3 --dev
+
+index.js
+schema.graphql
+resolvers.js
+db.js (db or wrapping)
